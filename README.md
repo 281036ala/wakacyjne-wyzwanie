@@ -1,5 +1,6 @@
 # wakacyjne-wyzwanie
-Aplikacja do wyszukiwania sekcji sportowych na PWr
+Aplikacja do wyszukiwania sekcji sportowych na PWr.
+
 Aplikacja rozwiązuje problem niedostępności informacji na temat sekcji sportowych na Politechnice Wrocławskiej.
 Jest spisem wszystkich dyscyplin sportowych uprawianych na naszej uczelni. 
 Pozwala znaleźć sekcję dla siebie po wypełnieniu krótkiej ankiety zainteresowań i umiejętności.
